@@ -252,21 +252,6 @@ class: inverse, middle, center
 ---
 class: inverse, center, middle
 
-# Nós precisamos de uma **antropologia digital**?
-
----
-class: center, middle
-
-```{r, out.width="45%"}
-knitr::include_graphics("img/antro.png")
-```
-
-### "..o digital, como toda cultura material, é mais do que um substrato; está se tornando parte constitutiva do que nos torna humanos" 
-##### (Heather & Miller. Digital Anthropology. Taylor & Francis,  2013, p.4)
-
----
-class: inverse, center, middle
-
 ## O que pretende uma **Filosofia Digital** e/ou uma **Filosofia do Digital**?
 
 ---
