@@ -288,7 +288,7 @@ class: middle, center
 <br>
 
 --
-## blabla
+## Problemas epistemológicos das humanidades digitais
 <br>
 
 ---
@@ -327,7 +327,7 @@ class: middle, center
 ## Obrigado gente!
 
 .pull-left[
-```{r, out.width="70%"}
+```{r, out.width="100%"}
 knitr::include_graphics("https://media.giphy.com/media/R8MIGe47XWx68/giphy.gif")
 ```
 ]
