@@ -330,6 +330,7 @@ class: middle, center
 
 --
 ## Cuidado com o soterramento! (download *versus* capacidade analítica)
+
 ---
 class: inverse, center, middle
 
@@ -349,7 +350,7 @@ knitr::include_graphics("https://media.giphy.com/media/R8MIGe47XWx68/giphy.gif")
 ##**Agradecimentos especiais**:
 <br>
 
-### Ao Marcos Fanton - Bruno Pinheiro Costa - CodeQ UFSM
+### Ao organizadores: Marcos Fanton, Bruno Pinheiro Costa e CodeQ da UFSM
 <br>
 
 ]
